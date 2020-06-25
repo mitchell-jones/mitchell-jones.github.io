@@ -1,5 +1,6 @@
 # Mitchell Jones
 This is my Data Science Project Portfolio
+
 About Me
 
 Made With ML 2020 Summer Incubator
