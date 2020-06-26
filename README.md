@@ -9,6 +9,8 @@ I am interested in Data Science Internships for the Summer of 2021 - connect wit
 This is an application of Linear Regression using the Gradient Descent algorithm - coded from scratch! 
 It takes user input of deciding one or two variables, randomly generates a dataset with noise, and fits a line to the dataset. Outputs include a visualization of the best fit line, with respects to the data (if univariate) and a loss curve with respects to epochs (for both choices).
 
+![](/images/linreg-plot-output.png)
+
 This algorithm is currently available for use through packages like sci-kit learn, but I decided to code it from the ground up myself, to force myself to understand the underlying math.
 
 Future goals for this project include compatibility with other versions of Gradient Descent such as Stochastic Gradient Descent or Mini-Batch Gradient Descent.
