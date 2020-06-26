@@ -23,6 +23,8 @@ This notebook is intended as a exploration of various statistics and comparisons
 * What departments of the city are paid the most?
 * Do Police Officers receive Overtime Pay at higher rates, or as a percentage of their salary?
 
+![](/images/gross-pay-police-data.png)
+
 Additional questions may include salaries for Police Department Employees, rather than just Police officers.
 
 Source Data can be found [here](https://data.cityofnewyork.us/City-Government/Citywide-Payroll-Data-Fiscal-Year-/k397-673e)
