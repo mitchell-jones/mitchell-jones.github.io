@@ -5,15 +5,15 @@ You can find more of my work on my Tableau Public Profile, [here!](https://publi
 
 I am interested in Data Science Internships for the Summer of 2021 - connect with me [here!](https://www.linkedin.com/in/mitchelljones49/)
 
-## [Project 1: Linear Regression with Gradient Descent](https://github.com/mitchell-jones/lin-reg)
-This is an application of Linear Regression using the Gradient Descent algorithm - coded from scratch! 
-It takes user input of deciding one or two variables, randomly generates a dataset with noise, and fits a line to the dataset. Outputs include a visualization of the best fit line, with respects to the data (if univariate) and a loss curve with respects to epochs (for both choices).
+## [Project 1: Linear Regression using Gradient Descent: Interactive Demo](https://github.com/mitchell-jones/lin-reg)
+This is an interactive demo of of Linear Regression using the Gradient Descent algorithm.
+User is asked to initialize a number of variables and then will be given opportunities to change learning rate & epochs to gain intuition about the effects that parameter tuning has on loss.
+
+This algorithm is currently available for use through packages like sci-kit learn, but I decided to code it from scratch myself, to force myself to understand the underlying math.
 
 ![](/images/linreg-plot-output.png)
 
-This algorithm is currently available for use through packages like sci-kit learn, but I decided to code it from the ground up myself, to force myself to understand the underlying math.
-
-Future goals for this project include compatibility with other versions of Gradient Descent such as Stochastic Gradient Descent or Mini-Batch Gradient Descent.
+Future goals for this project include compatibility with other types of Gradient Descent such as Stochastic Gradient Descent or Mini-Batch Gradient Descent.
 
 
 ## [Project 2: New York Police Salary Data - Exploratory Analysis](https://github.com/mitchell-jones/ny-police-data)
