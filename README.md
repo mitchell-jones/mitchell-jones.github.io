@@ -1,3 +1,6 @@
+<img src="(/images/linreg-plot-output.png)" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" />
+<h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+
 # Mitchell Jones: Data-Driven Nerd
 I am a Business Analytics major at the University of North Carolina at Charlotte. <br>
 In addition to my undergraduate Business coursework, I currently serve as President of the Business Honors Program, and as a Data Analyst Intern for Visual Risk IQ. 
