@@ -1,6 +1,7 @@
-# Mitchell Jones
-Hey there! I am a data-driven nerd. I am a Business Analytics major at the University of North Carolina at Charlotte. <br>
-In addition to my undergraduate Business coursework, I currently serve as President of the Business Honors Program, and as a Data Analyst Intern for Visual Risk IQ. <br>
+# Mitchell Jones: Data-Driven Nerd
+I am a Business Analytics major at the University of North Carolina at Charlotte. <br>
+In addition to my undergraduate Business coursework, I currently serve as President of the Business Honors Program, and as a Data Analyst Intern for Visual Risk IQ. 
+You can find more of my work on my Tableau Public Profile, [here!](https://public.tableau.com/profile/mitchell.jones#!/?newProfile=&activeTab=0)
 
 I am interested in Data Science Internships for the Summer of 2021 - connect with me [here!](https://www.linkedin.com/in/mitchelljones49/)
 
