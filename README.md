@@ -1,5 +1,3 @@
-<img src="(/images/linreg-plot-output.png)">
-
 # Mitchell Jones: Data-Driven Nerd
 I am a Business Analytics major at the University of North Carolina at Charlotte. <br>
 In addition to my undergraduate Business coursework, I currently serve as President of the Business Honors Program, and as a Data Analyst Intern for Visual Risk IQ. 
