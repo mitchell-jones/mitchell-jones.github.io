@@ -30,9 +30,9 @@ Additional questions may include salaries for Police Department Employees, rathe
 Source Data can be found [here](https://data.cityofnewyork.us/City-Government/Citywide-Payroll-Data-Fiscal-Year-/k397-673e)
 
 ## [Project 3: Made With ML 2020 Summer Incubator](https://github.com/mitchell-jones/DS-Incubator-2020)
-This is a group project for the 2020 Made With [Machine Learning Summer Data Science Incubator](https://madewithml.com/programs/ds-incubator-summer-2020/). It is a team effort comprised of myself and Victor Zheng.
+This is a group project for the 2020 [Made With Machine Learning Summer Data Science Incubator](https://madewithml.com/programs/ds-incubator-summer-2020/). It is a team effort comprised of myself and Victor Zheng.
 
-Currently, this project is a work in progress, and will be developed over the course of the summer. Our aim is to create a multi-faceted project through analysis of the MovieLens Dataset. 
+Our aim is to create a multi-faceted project through analysis of the MovieLens Dataset. Currently, this project is a work in progress, and will be developed over the course of the summer. 
 
 This end-to-end project will explore popular Data Science topics including:
 * Exploratory Data Analysis
