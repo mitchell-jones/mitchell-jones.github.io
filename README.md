@@ -24,9 +24,7 @@ This is an example of a classification problem. It's split into two portions - [
 Here's an example of one of the visualizations from the exploratory analysis:
 ![](/images/churnanalysisPaymentMethod.svg)
 
-and one of the ROC / AUC curves from the classification model:
-
-Overall, in this project, I was able to build a variety of models and analyzed which parameters / approaches produce changes in accuracy, precision, and recall. My final result was a ??? model with ??? accuracy / ??? recall / ??? precision.
+Overall, in this project, I was able to build a variety of models and analyzed which parameters / approaches produce changes in accuracy, precision, and recall. My final result was a Naive Bayes model with 70% accuracy, 85% recall, 65% precision.
 
 
 ## [Project 3: New York Police Salary Data - Exploratory Analysis](https://github.com/mitchell-jones/ny-police-data)
